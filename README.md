@@ -1,7 +1,7 @@
-PythonEnterpriseStack
+Python Full Stack
 =====================
 
-Python Enterprise Stack Example
+Python Full Stack Example
 
 This is an example about how to build you development environment using Buildout and Pyramid
 
